@@ -3,7 +3,7 @@
 
 ### Recent Computer Science Engineering Graduate | Software Developer Enthusiast
 
-Hello there! Welcome to my GitHub profile. I'm Satya sri Saladi, a recent graduate with a B.Tech in Computer Science and Engineering from Rajiv Gandhi University of Knowledge Technologies (RGUKT). I'm passionate about software development, particularly in web development, and I love diving into various technologies to build exciting projects.
+Hello there! Welcome to my GitHub profile. I'm Satya Sri Saladi, a recent graduate with a B.Tech in Computer Science and Engineering from Rajiv Gandhi University of Knowledge Technologies (RGUKT). I'm passionate about software development, particularly in web development, and I love diving into various technologies to build exciting projects.
 
 ## About Me
 - 🔭 I’m currently exploring opportunities to further develop my skills and contribute to innovative projects.
