@@ -9,7 +9,7 @@ Hello there! Welcome to my GitHub profile. I'm Satya Sri Saladi, a recent gradua
 - 🔭 I’m currently exploring opportunities to further develop my skills and contribute to innovative projects.
 - 🌱 I’m continuously learning and keeping up with the latest trends in software development.
 - 🔭 I’m currently working on web development using React js
-- 💬 Ask me about anything related to Python, SQL, JavaScript, HTML/CSS, Django, React.js, or PyCharm.
+- 💬 Ask me about anything related to Python, SQL, JavaScript, HTML/CSS, Django, React.js, or PyCharm, Flask, web client,Bootstrap,Angular.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sathyasree-saladi/) to stay updated on my professional journey.
 
 ## Skills
