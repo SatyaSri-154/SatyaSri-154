@@ -14,8 +14,8 @@ Hello there! Welcome to my GitHub profile. I'm Satya Sri Saladi, a recent gradua
 
 ## Skills
 - **Languages:** Python, SQL, JavaScript, HTML/CSS
-- **Frameworks/Libraries:** Django, React.js
-- **Tools/IDEs:** PyCharm
+- **Frameworks/Libraries:** Django, React.js,Angular,Flask,SQLplus, SQLAlchemy,Restful.
+- **Tools/IDEs:** PyCharm,Vs code.
 
 
 Feel free to explore my repositories to see more of my work! If you have any questions or would like to collaborate, don't hesitate to reach out.
